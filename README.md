@@ -9,22 +9,6 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L8Cr9GFp/gif-hacker-6.gif' border='0' alt='gif-hacker-6'/></a>
 
 ### Helo ngab, [9Dev_Pr1vte71]() is here
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=9DevPr1vate72 alt=""/> </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=9DevPr1vate71&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari Github stats" /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9DevPr1vate71&layout=compact&theme=monokai&langs_count=50"/><br />
-
-</p>
-
-<div align="center">
-
-	<p align='center'>
-
-		<a href="#"><img 
-		src="https://github-readme-stats.vercel.app/api?username=9DevPr1vate71&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
-
 				width="400" title="9DevPr1vate71 github starts"></a>
 
 <h2 align="center">Skills </h2>
