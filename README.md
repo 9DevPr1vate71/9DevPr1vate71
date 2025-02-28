@@ -9,10 +9,11 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L8Cr9GFp/gif-hacker-6.gif' border='0' alt='gif-hacker-6'/></a>
 
 ### Helo ngab, [9Dev_Pr1vte71]() is here
-				width="400" title="9DevPr1vate71 github starts"></a>
+
 
 <h2 align="center">Skills </h2>
 
 <p align="center">
 
   <a href="https://skillicons.dev">
+	<h3>Python</h3><br><h3>C++</h3><h3>Bash</h3>
